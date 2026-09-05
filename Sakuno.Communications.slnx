@@ -1,2 +1,5 @@
 <Solution>
+  <Project Path="src/Sakuno.Communications.Modbus.Tcp/Sakuno.Communications.Modbus.Tcp.csproj" />
+  <Project Path="src/Sakuno.Communications.Modbus/Sakuno.Communications.Modbus.csproj" />
+  <Project Path="tests/Sakuno.Communications.Modbus.Tcp.Tests/Sakuno.Communications.Modbus.Tcp.Tests.csproj" />
 </Solution>
